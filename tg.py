@@ -1,4 +1,4 @@
-import config
+import config #In this file, the token variable contains the token of our bot
 from aiogram import Bot, Dispatcher, types
 from aiogram.dispatcher import dispatcher
 from aiogram.utils import executor
