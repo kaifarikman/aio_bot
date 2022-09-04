@@ -5,7 +5,7 @@ from aiogram.utils import executor
 from random import randint
 
 
-class TheBestBotInTheWorld():
+class TheBestBotInTheWorld:
 
     def __init__(self):
         self.token = config.token
